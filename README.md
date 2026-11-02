@@ -1,2 +1,4 @@
-# molec_class_test
-This repostiry is an example for the molecular class. TRMD
+# molec\_class\_test
+
+This repository is an example for the molecular class. TRMD
+
